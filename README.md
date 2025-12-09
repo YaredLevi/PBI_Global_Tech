@@ -3,7 +3,7 @@
 ![Dashboard Preview](PaginasReporte/Global/Logo.png)
 
 ---
-**👉 [Ver Presentación del Análisis de Ventas](presentation/)**
+**👉 [Ver Presentación del Análisis de Ventas](PaginasReporte/)**
 
 ## 👨‍💻 Sobre Este Proyecto
 
@@ -48,12 +48,12 @@ de acceso público y diseñado para aprendizaje de Power BI.
 
 ### ⚠️ Nota Importante sobre el Archivo
 
-El archivo `.pbix` descargable de Microsoft incluye:
-- ✅ **Modelo de datos completo** (tablas, relaciones, jerarquías)
-- ✅ **Visualizaciones de ejemplo**
-- ❌ **NO incluye la fuente de datos original** (según advertencia oficial)
+El archivo `.pbix` descargable de Microsoft no incluye:
+- **NO incluye la fuente de datos original** (según advertencia oficial)
+- El modelo usa llaves naturales de negocio **en lugar de llaves subrrogadas**
+- **Sin Tabla Intermedia de Detalle de Venta** (Creo que Microsoft lo hizo para simplificar el modelo para aprendizaje de Power BI, enfocándose en visualizaciones 
+y DAX en lugar de modelado transaccional complejo.)
 
-Por esta razón, el modelo trabaja con datos precargados en el archivo.
 
 ### 🎯 Por Qué Enfoqué el Análisis en Tienda de Texas
 
@@ -63,6 +63,3 @@ Decidí **limitar el análisis a una Tienda de Texas** por dos razones:
    gerentes regionales solo pueden acceder a datos de su territorio
 2. **Storytelling más enfocado:** Un análisis regional permite narrativa más específica 
    y recomendaciones accionables vs análisis global genérico
-
-En un entorno corporativo real, este mismo dashboard tendría vistas separadas para 
-Europe, Asia, y otras regiones, cada una con RLS aplicado.
