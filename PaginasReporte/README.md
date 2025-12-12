@@ -11,6 +11,10 @@ Este análisis examina el desempeño de ventas durante 2013, identificando una *
 
 ![Vista General](Local/2-VistaGeneral.png)
 
+### Nota sobre el Margen de Ganancia %
+
+El indicador de **Ganancia %** corresponde a **margen bruto**, calculado como (precio de venta − costo del producto) sobre el precio de venta. En la base Contoso no se incluyen costos operativos como logística, almacenamiento, sueldos, arriendo de tiendas, marketing o servicios básicos, por lo que el margen mostrado (≈56%) es más alto que el margen operativo real de un retail. Aun así, este margen bruto es útil para comparar la **rentabilidad relativa** entre productos, categorías y estrategias promocionales dentro del modelo.
+
 ### El Problema: Crisis de Volumen, NO de Rentabilidad
 
 | Métrica | Resultado | Interpretación |
