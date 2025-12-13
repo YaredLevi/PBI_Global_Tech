@@ -212,13 +212,12 @@ Las promociones están diseñadas según calendario comercial de Texas:
 
 **Problema Identificado:**
 - Descuentos promedio de 15% erosionan margen sin recuperar volumen
-- Back-to-School generó -22.7% YoY (PEOR resultado)
+- Holiday promotion generó -25.56% YoY (PEOR resultado)
 - Meses sin descuento superan meses con promociones
 
 **Solución:**
 
 - **Replantear** Holiday Promotion (débil a pesar de festividades)
-- **Acelerar** Spring Promotion a Mayo-Junio (estos meses muestran fortaleza natural)
 - Considerar programa de fidelización en lugar de descuentos agresivos
 - Evaluación urgente: El problema se arrastra desde 2012 pero nunca fue identificado
 
