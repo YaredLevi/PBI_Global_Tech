@@ -1,5 +1,8 @@
+# 🎥 Presentación del Análisis de Ventas
 
-# 📊 Resumen Ejecutivo
+[![Presentación Análisis de Ventas Global Tech](https://img.youtube.com/vi/qlcxxstW8bo/0.jpg)](https://www.youtube.com/watch?v=qlcxxstW8bo)
+
+## 📊 Resumen Ejecutivo
 
 Este análisis examina el desempeño de ventas durante 2013, identificando una **crisis de volumen** más que de rentabilidad. A pesar de márgenes saludables del 56.84%, las ventas cayeron un -15.11% interanual, revelando un problema estructural que requiere intervención inmediata.
 
