@@ -3,7 +3,11 @@
 ![Dashboard Preview](PaginasReporte/Global/Logo.png)
 
 ---
-**👉 [Ver Presentación del Análisis de Ventas](PaginasReporte/)** (Grabación de la presentación del análisis en proceso)
+**👉 [Ver Presentación del Análisis de Ventas](PaginasReporte/)**
+
+## 🎥 Video Técnico del Proyecto
+
+[![Ver Video: Cómo Construí el Reporte Global Tech](Videos/VPCOMO.png)](https://www.youtube.com/watch?v=suUkd7NiYIA)
 
 ## 👨‍💻 Sobre Este Proyecto
 
