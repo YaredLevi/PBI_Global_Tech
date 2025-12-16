@@ -65,8 +65,6 @@ El bajo volumen en Q1 se asocia con:
 
 ![Categorías y Top Productos](Local/CategoriasYTopProductos.png)
 
-#### Top 5 Productos
-**100% son laptops** → Dependencia crítica en un único tipo de producto
 
 #### Distribución por Categoría
 | Categoría | % del Negocio | Estado | Riesgo |
