@@ -5,10 +5,6 @@
 ---
 **👉 [Ver Presentación del Análisis de Ventas](PaginasReporte/)**
 
-## 🎥 Video Técnico del Proyecto
-
-[![Ver Video: Cómo Construí el Reporte Global Tech](Videos/VPCOMO.png)](https://www.youtube.com/watch?v=suUkd7NiYIA)
-
 ## 👨‍💻 Sobre Este Proyecto
 
 Este es un **proyecto de Business Intelligence y Análisis de Datos** desarrollado para demostrar habilidades técnicas y de comunicación en el ciclo casi completo de un proyecto de BI: desde el análisis del modelado de datos hasta presentación ejecutiva de hallazgos.
